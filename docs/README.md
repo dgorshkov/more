@@ -10,7 +10,7 @@ This directory contains all project documentation organized by category.
 
 ## Guidelines
 
-- Keep documentation up-to-date with implementation
-- Use markdown for all documentation files
-- Include diagrams where helpful (use Mermaid or other markdown-compatible formats)
-- Link related documents together for easy navigation
+- Documentation is kept up to date with implementation
+- All documentation files use Markdown
+- Diagrams are included where helpful (using Mermaid or other markdown-compatible formats)
+- Related documents are linked together for easy navigation

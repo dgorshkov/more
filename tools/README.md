@@ -14,7 +14,7 @@ Store custom tools and scripts that aid development:
 
 ## Guidelines
 
-- Document each tool's purpose and usage
-- Keep tools maintainable and well-commented
-- Consider cross-platform compatibility
-- Version control tool dependencies
+- Each tool should document its purpose and usage
+- Tools should remain maintainable and well-commented
+- Cross-platform compatibility should be considered
+- Tool dependencies should be tracked in version control
