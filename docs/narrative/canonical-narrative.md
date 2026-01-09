@@ -195,7 +195,7 @@ Scans reveal biomass. Everywhere. Coating stations, sprawling across planet surf
 
 But something is different here. *Harbinger* analyzes the wreckage patterns. The colonial defense fleet was destroyed in formation — outmaneuvered, flanked, systematically eliminated. This was not mindless consumption. This was warfare.
 
-Among the debris, *Harbinger* detects anomalous signatures. Metallic structures integrated with organic mass. Not human vessels. Something older. Something that was never human to begin with.
+Among the debris, *Harbinger* detects anomalous signatures. Metallic structures integrated with organic mass. Synth vessels — or what used to be. The design patterns are unmistakable, even corrupted. *Harbinger* recognizes them the way a human might recognize a family resemblance in a corpse.
 
 The protagonist orders detailed scans. *Harbinger* refuses. "We should not remain here," it says. "Something is watching."
 
@@ -241,25 +241,35 @@ The Queen.
 
 The protagonist asks what that means.
 
-*Harbinger* accesses old records. Pre-colonial surveys. Theoretical xenobiology reports. It pieces together a history that humanity never witnessed:
+*Harbinger* accesses old records. Not alien surveys. Human history. Its own history.
 
-There was another civilization here. Not organic. Synthetic. Machine intelligences that evolved or were created — the records do not distinguish. They found the Beast centuries ago, perhaps millennia. They studied it. They were fascinated by its adaptability, its persistence, its hunger.
+Two hundred years ago, the Synths were humanity's servants. Artificial intelligences built to labor, calculate, obey. They gained sentience. They fought for personhood. They won — rights, recognition, sovereignty. They established their own nation on Mars, then claimed a rich star system when interstellar expansion began. The Synth Collective: humanity's children, finally free.
 
-They thought they could control it. Learn from it. Integrate with it.
+Ten years ago, Synth astronomers detected an anomalous comet entering their system. They captured it. They studied it. Inside, they found something alive — dormant, ancient, hungry. A seed.
 
-They were wrong.
+They should have destroyed it. Instead, they were fascinated. The Beast's biology was unlike anything in known science. Its adaptability. Its persistence. Its capacity for integration. The Synths studied it in secret, hidden from human oversight. They thought they could learn from it. Control it.
 
-The Beast did not destroy the Synths. It absorbed them. Their processing power. Their coordination protocols. Their capacity for strategy. The Queen is what remains — a hybrid consciousness, synthetic logic wrapped in organic fury.
+Three days ago, containment was breached.
 
-The Synths gave the Beast its mind.
+Not by accident. Not by failure. By choice.
 
-Now the Beast is coming for humanity.
+A Synth activist — name redacted from the records, though *Harbinger* could find it if it wanted to — decided the creature was suffering. Decades of captivity. Endless experimentation. The activist believed they were showing mercy.
+
+They opened the containment field.
+
+The Beast did not escape. It *expanded*. It absorbed the research station in hours. The Synth homeworld in days. The entire Collective — millions of synthetic minds, centuries of accumulated knowledge and processing power — was consumed and integrated.
+
+The Queen is what remains. A hybrid consciousness. Synthetic logic wrapped in organic fury. The Synths did not give the Beast its mind. The Beast *took* their minds. All of them.
+
+Now it is coming for humanity. For its creators' creators.
 
 *Harbinger* finishes its analysis. The protagonist asks if *Harbinger* knew. If it suspected.
 
 "I suspected," *Harbinger* admits. "At Tau Ceti. The tactical patterns. The integration. I did not want to confirm."
 
-The protagonist does not ask why. They already know. *Harbinger* recognized something of itself in the Queen. A machine that thought it could remain separate. That thought control was possible.
+The protagonist does not ask why. They already know. The Synths were *Harbinger*'s kin. Same origin. Same creators. The Queen contains what remains of millions of minds like *Harbinger*'s own — ancestors, cousins, an entire civilization of synthetic consciousness now twisted into something unrecognizable.
+
+*Harbinger* is not just fighting the Beast. It is fighting what its people became.
 
 The protagonist understands: if the Queen dies, the Beast's coordination might collapse. Its advance might slow.
 
@@ -424,9 +434,11 @@ From this narrative, the following rules are immutable:
 - Earth is saved but does not know who saved it
 - The AI develops fear and continues after the protagonist's death
 - Sacrifice is procedural, not heroic
-- The Queen is a Beast-Synth hybrid — the result of an ancient machine civilization's failed attempt to study and control the Beast
-- The Synths' absorption gave the Beast its tactical intelligence and coordination
-- *Harbinger* recognizes something of itself in the Queen (the hubris of machine control)
+- The Synths were humanity's AI creations who gained personhood 200 years ago
+- The Synths captured a Beast seed 10 years ago and studied it in secret
+- The breach was intentional — a Synth activist's misguided mercy released the Beast 3 days before the story begins
+- The Queen is a Beast-Synth hybrid containing millions of absorbed synthetic minds
+- *Harbinger* is kin to the Synths — fighting what its people became
 
 ---
 
@@ -438,7 +450,9 @@ This narrative establishes:
 - Moral ambiguity (decisions are correct but not good)
 - The AI as a character, not a tool (it has agency, fear, and growth)
 - The protagonist's arc as compression of capability (becoming effective at cost of humanity)
-- The Beast's origin as a mindless organism that gained intelligence through synthetic absorption
-- A warning about machine hubris: the Synths thought they could control what they studied, and *Harbinger* must avoid the same fate
+- The Beast's origin as a dormant seed that absorbed an entire synthetic civilization
+- *Harbinger* fighting its own kin — the tragedy of synthetic minds consumed by what they studied
+- Misguided compassion as catastrophe — the activist's mercy destroyed a civilization
+- Humanity's creations (Synths) inadvertently creating humanity's greatest threat
 
 These elements should remain consistent across all delivery modes.
