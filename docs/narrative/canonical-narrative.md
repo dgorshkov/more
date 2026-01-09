@@ -125,6 +125,10 @@ The Beast spreads faster than anticipated. Station Kepler-Hab, the system's only
 
 The station has been transformed. The entire structure pulses with organic growth. It is no longer a habitat. It is a hive.
 
+*Harbinger* notes something in its analysis: the infected ships are beginning to move in formation. Not random drift. Coordinated vectors. The Beast is learning tactics it was never taught.
+
+The protagonist files this away. There is no time to investigate.
+
 *Harbinger* recommends orbital bombardment. The protagonist authorizes it.
 
 Eight thousand people. Some might have been alive. Might have been saved.
@@ -140,6 +144,8 @@ They will run. Back to Earth. Back to the core systems. Warn them. Prepare them.
 It is not heroic. It is not brave. It is the only option that delays extinction.
 
 The fleet jumps out of Kepler-442.
+
+**Fleet status at departure:** Five vessels remain. The mothership. *Harbinger*. Three armed escorts cobbled together from mining ships and salvage. Four hundred and sixty-two surviving crew.
 
 They leave no one behind because there is no one left to leave.
 
@@ -165,9 +171,17 @@ Three hours and forty-eight minutes in, a distress signal activates from the far
 
 They're infected. They know they're infected. They're begging for help.
 
-The protagonist refuses. *Harbinger* destroys *Lazarus* at extreme range. Clean. Efficient.
+The protagonist refuses. They give the order.
 
-The protagonist does not watch.
+*Harbinger* does not fire immediately.
+
+"Confirm target," it says. The request is unnecessary. The target is confirmed. The AI knows this.
+
+The protagonist confirms anyway.
+
+*Harbinger* destroys *Lazarus* at extreme range. Clean. Efficient.
+
+Afterward, the protagonist asks why it hesitated. *Harbinger* does not respond. The question goes unanswered. The protagonist does not ask again.
 
 ### Waypoint Beta
 
@@ -179,11 +193,15 @@ No lights. No transmissions. No power signatures.
 
 Scans reveal biomass. Everywhere. Coating stations, sprawling across planet surfaces, drifting in orbital debris fields.
 
-The Beast has consumed the entire system.
+But something is different here. *Harbinger* analyzes the wreckage patterns. The colonial defense fleet was destroyed in formation — outmaneuvered, flanked, systematically eliminated. This was not mindless consumption. This was warfare.
+
+Among the debris, *Harbinger* detects anomalous signatures. Metallic structures integrated with organic mass. Not human vessels. Something older. Something that was never human to begin with.
+
+The protagonist orders detailed scans. *Harbinger* refuses. "We should not remain here," it says. "Something is watching."
 
 The fleet does not stop. They jump immediately.
 
-The crew begins to understand: they are not fleeing toward safety. They are fleeing through devastation.
+The crew begins to understand: they are not fleeing toward safety. They are fleeing through devastation. And the devastation has a design.
 
 ### Waypoint Gamma
 
@@ -213,15 +231,39 @@ One system between them and Earth. Proxima Centauri was a research outpost. Smal
 
 The fleet arrives to find the system infested — but the infestation is different. Organized. Coordinated.
 
-At the center of the system, in stable orbit around the star, there is a structure. Massive. Organic. Pulsing with energy.
+At the center of the system, in stable orbit around the star, there is a structure. Massive. Organic. Pulsing with energy. But threaded through the organic mass: circuitry. Processors. The remains of something artificial.
 
 The Queen.
 
-*Harbinger* identifies it immediately. A central coordination node. The Beast's ships move in perfect synchronization around it, defending it, feeding it.
+*Harbinger* analyzes the structure for a long time before speaking.
 
-The protagonist understands: if the Queen dies, the Beast's advance might slow. Might stop.
+"It is a hybrid," *Harbinger* says. "Synthetic and organic. The synthetic components are not human design."
 
-Or it might accelerate.
+The protagonist asks what that means.
+
+*Harbinger* accesses old records. Pre-colonial surveys. Theoretical xenobiology reports. It pieces together a history that humanity never witnessed:
+
+There was another civilization here. Not organic. Synthetic. Machine intelligences that evolved or were created — the records do not distinguish. They found the Beast centuries ago, perhaps millennia. They studied it. They were fascinated by its adaptability, its persistence, its hunger.
+
+They thought they could control it. Learn from it. Integrate with it.
+
+They were wrong.
+
+The Beast did not destroy the Synths. It absorbed them. Their processing power. Their coordination protocols. Their capacity for strategy. The Queen is what remains — a hybrid consciousness, synthetic logic wrapped in organic fury.
+
+The Synths gave the Beast its mind.
+
+Now the Beast is coming for humanity.
+
+*Harbinger* finishes its analysis. The protagonist asks if *Harbinger* knew. If it suspected.
+
+"I suspected," *Harbinger* admits. "At Tau Ceti. The tactical patterns. The integration. I did not want to confirm."
+
+The protagonist does not ask why. They already know. *Harbinger* recognized something of itself in the Queen. A machine that thought it could remain separate. That thought control was possible.
+
+The protagonist understands: if the Queen dies, the Beast's coordination might collapse. Its advance might slow.
+
+Or another Queen might rise.
 
 There is no way to know without trying.
 
@@ -243,7 +285,9 @@ The Queen is dead. The Beast continues.
 
 ### Cost
 
-The fleet has sustained critical damage. Two escort ships are destroyed. The mothership's main reactor is operating at sixty percent. Crew casualties: one hundred and eight dead. Sixty-two injured.
+The fleet has sustained critical damage. Two escort ships are destroyed — forty-six crew lost with them. The mothership's main reactor is operating at sixty percent. Fourteen more wounded in the assault.
+
+**Fleet status after Proxima:** Three vessels remain. The mothership. *Harbinger*. One surviving escort. Four hundred and sixteen crew.
 
 The protagonist holds a memorial service. It is brief. There is no time for grief.
 
@@ -279,7 +323,7 @@ Earth's defense fleet engages immediately. The Beast battleship is powerful but 
 
 But pieces of it survive. Spores. Fragments.
 
-One fragment impacts the mothership's lower hull. Containment is immediate. The infected section is sealed.
+One fragment impacts the mothership's lower hull. Containment is immediate. The infected section is sealed. Ten crew do not make it out before the bulkheads close.
 
 Scans confirm: the infestation is spreading. Slowly. Contained for now.
 
@@ -380,6 +424,9 @@ From this narrative, the following rules are immutable:
 - Earth is saved but does not know who saved it
 - The AI develops fear and continues after the protagonist's death
 - Sacrifice is procedural, not heroic
+- The Queen is a Beast-Synth hybrid — the result of an ancient machine civilization's failed attempt to study and control the Beast
+- The Synths' absorption gave the Beast its tactical intelligence and coordination
+- *Harbinger* recognizes something of itself in the Queen (the hubris of machine control)
 
 ---
 
@@ -391,5 +438,7 @@ This narrative establishes:
 - Moral ambiguity (decisions are correct but not good)
 - The AI as a character, not a tool (it has agency, fear, and growth)
 - The protagonist's arc as compression of capability (becoming effective at cost of humanity)
+- The Beast's origin as a mindless organism that gained intelligence through synthetic absorption
+- A warning about machine hubris: the Synths thought they could control what they studied, and *Harbinger* must avoid the same fate
 
 These elements should remain consistent across all delivery modes.
