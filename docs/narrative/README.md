@@ -4,7 +4,8 @@ This directory contains all story-related content and narrative design documenta
 
 ## Contents
 
-- **story-summary.md** - The complete story arc from beginning to end
+- **canonical-narrative.md** - Complete prose narrative defining what actually happened (Step 1)
+- **story-summary.md** - High-level story arc overview
 - **writing-process.md** - Guidelines and process for narrative writing
 
 ## Purpose
