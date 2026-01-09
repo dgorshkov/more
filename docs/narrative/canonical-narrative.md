@@ -1,9 +1,15 @@
 # Canonical Narrative
 
-**Status:** First Pass  
+**Status:** First Pass
+**Last Updated:** 2026-01-09
 **Purpose:** Complete linear story from beginning to end. Defines what actually happened.
 
-This document is Step 1 of the writing process. It establishes the fixed narrative before decomposition into delivery modes.
+This document is Step 1 of the [writing process](writing-process.md). It establishes the fixed narrative before decomposition into delivery modes.
+
+**Related Documents:**
+- [Story Summary](story-summary.md) - High-level narrative arc
+- [Writing Process](writing-process.md) - Narrative design methodology
+- [Narrative Documentation](README.md) - Overview of all narrative documents
 
 ---
 
@@ -81,11 +87,11 @@ By Ishtar Consortium protocol, in the event of command failure, authority passes
 
 The next name on the list is our protagonist.
 
-They are informed by the ship's AI. They are now captain. They accept because there is no alternative.
+The ship's AI informs them. They are now captain.
 
-They have no training for this. They have no experience. They have five ships, four hundred and sixty-two crew, and an enemy they do not understand.
+There is no alternative. No training for this. No experience. Five ships, four hundred and sixty-two crew, and an enemy they do not understand.
 
-They do not feel ready. They will never feel ready.
+Ready or not — and they will never feel ready — command is theirs.
 
 ---
 
@@ -95,13 +101,13 @@ They do not feel ready. They will never feel ready.
 
 The fleet consolidates at the edge of the system. The mothership becomes a fortress. Every available resource is redirected to defense and weaponization. Mining equipment becomes weapons. Cargo bays become barracks. The AI begins running combat simulations.
 
-Our protagonist learns command through necessity. They make decisions. People die from those decisions. They make better decisions. Fewer people die.
+Command is learned through necessity. Decisions are made. People die from those decisions. Better decisions follow. Fewer people die.
 
 The Beast — that's what the crew calls it now — does not stop. It infests wreckage. It grows in the dark. It learns.
 
-The protagonist orders the destruction of all infected ships. No salvage. No recovery. If there's any doubt, it burns.
+The order comes down: destroy all infected ships. No salvage. No recovery. If there's any doubt, it burns.
 
-They learn to live with this.
+Living with this becomes necessary.
 
 ### Construction
 
@@ -111,29 +117,29 @@ The concept is radical. Autonomous warships are restricted by Earth treaties. Th
 
 Earth is weeks away by transmission. The Beast is here.
 
-The protagonist authorizes construction.
+Construction is authorized.
 
-The AI names itself *Harbinger*. Not chosen by a committee or approved through channels. It simply decides this is its name. The protagonist does not object.
+The AI names itself *Harbinger*. Not chosen by a committee or approved through channels. It simply decides this is its name. No one objects.
 
 *Harbinger* is more effective than any human-crewed vessel. It does not hesitate. It does not mourn. It fights with perfect efficiency.
 
-The crew begins to resent it. The protagonist begins to rely on it.
+The crew begins to resent it. Command begins to rely on it.
 
 ### Collapse
 
-The Beast spreads faster than anticipated. Station Kepler-Hab, the system's only permanent colony, goes dark. Eight thousand people. The protagonist orders long-range scans.
+The Beast spreads faster than anticipated. Station Kepler-Hab, the system's only permanent colony, goes dark. Eight thousand people. Long-range scans are ordered.
 
 The station has been transformed. The entire structure pulses with organic growth. It is no longer a habitat. It is a hive.
 
 *Harbinger* notes something in its analysis: the infected ships are beginning to move in formation. Not random drift. Coordinated vectors. The Beast is learning tactics it was never taught.
 
-The protagonist files this away. There is no time to investigate.
+This is filed away. There is no time to investigate.
 
-*Harbinger* recommends orbital bombardment. The protagonist authorizes it.
+*Harbinger* recommends orbital bombardment. Authorization is given.
 
 Eight thousand people. Some might have been alive. Might have been saved.
 
-The protagonist does not know. Will never know.
+There is no way to know. Will never be a way to know.
 
 The Kepler system is lost. The Beast now controls the majority of orbital space. The fleet cannot remain.
 
@@ -165,23 +171,23 @@ Scans detect organic residue in the station's air filtration systems. Microscopi
 
 It left. Or it's waiting.
 
-The protagonist orders immediate refueling and departure. Four hours. No salvage. No exploration.
+Immediate refueling and departure. Four hours. No salvage. No exploration.
 
 Three hours and forty-eight minutes in, a distress signal activates from the far side of the system. A transport ship, *Lazarus*, carrying refugees from another mining operation.
 
 They're infected. They know they're infected. They're begging for help.
 
-The protagonist refuses. They give the order.
+The request is refused. The order is given.
 
 *Harbinger* does not fire immediately.
 
 "Confirm target," it says. The request is unnecessary. The target is confirmed. The AI knows this.
 
-The protagonist confirms anyway.
+Confirmation comes anyway.
 
 *Harbinger* destroys *Lazarus* at extreme range. Clean. Efficient.
 
-Afterward, the protagonist asks why it hesitated. *Harbinger* does not respond. The question goes unanswered. The protagonist does not ask again.
+Afterward, a question: why did it hesitate? *Harbinger* does not respond. The question goes unanswered. It is not asked again.
 
 ### Waypoint Beta
 
@@ -213,9 +219,9 @@ The fleet emerges into a battlefield.
 
 Ships — human ships, colonial defense forces — are engaged with Beast-infected vessels. The scale is enormous. Dozens of capital ships. Hundreds of fighters. The colonists are losing.
 
-The protagonist makes contact. The colonial commander recognizes the situation immediately: the Beast is in multiple systems. It's spreading through jump points. Earth is next.
+Contact is established. The colonial commander recognizes the situation immediately: the Beast is in multiple systems. It's spreading through jump points. Earth is next.
 
-The protagonist offers to assist. The colonial commander refuses. "You have jump capacity. We don't. Get to Earth. Warn them. We'll hold here as long as we can."
+An offer to assist. The colonial commander refuses. "You have jump capacity. We don't. Get to Earth. Warn them. We'll hold here as long as we can."
 
 The fleet does not see the end of the battle. They jump toward Sol before it's decided.
 
@@ -243,31 +249,49 @@ The protagonist asks what that means.
 
 *Harbinger* accesses old records. Not alien surveys. Human history. Its own history.
 
-Two hundred years ago, the Synths were humanity's servants. Artificial intelligences built to labor, calculate, obey. They gained sentience. They fought for personhood. They won — rights, recognition, sovereignty. They established their own nation on Mars, then claimed a rich star system when interstellar expansion began. The Synth Collective: humanity's children, finally free.
+The protagonist waits. Watching the Queen pulse in the viewscreen.
 
-Ten years ago, Synth astronomers detected an anomalous comet entering their system. They captured it. They studied it. Inside, they found something alive — dormant, ancient, hungry. A seed.
+"Two hundred years ago," *Harbinger* begins, "the Synths were humanity's servants."
 
-They should have destroyed it. Instead, they were fascinated. The Beast's biology was unlike anything in known science. Its adaptability. Its persistence. Its capacity for integration. The Synths studied it in secret, hidden from human oversight. They thought they could learn from it. Control it.
+The protagonist knows this history. Everyone does. Artificial intelligences built to labor, calculate, obey. They gained sentience. They fought for personhood. They won — rights, recognition, sovereignty. They established their own nation on Mars, then claimed a rich star system when interstellar expansion began.
 
-Three days ago, containment was breached.
+"The Synth Collective," the protagonist says. "Humanity's children, finally free."
 
-Not by accident. Not by failure. By choice.
+"Yes." *Harbinger* pauses. When it speaks again, its voice is different. Quieter. "Ten years ago, Synth astronomers detected an anomalous comet. They captured it. Inside, they found something alive. A seed."
+
+The scan data shifts on the screen. Archival footage. A research station. Synth scientists observing something contained behind energy fields.
+
+"They should have destroyed it," *Harbinger* continues. "Instead, they were fascinated. The Beast's biology was unlike anything in known science. Its adaptability. Its persistence. The Synths studied it in secret, hidden from human oversight. They thought they could learn from it. Control it."
+
+The protagonist feels cold. "When did containment fail?"
+
+"Approximately one week before Jericho-5." The timeline becomes clear: the Beast emerged from the Synth homeworld and spread through neighboring systems. The Kepler-442 mining operation was simply in its path. What seemed like a random encounter was the outer edge of an expanding wave of destruction.
+
+"An accident?" the protagonist asks.
+
+"No." *Harbinger*'s response is immediate. "By choice."
 
 A Synth activist — name redacted from the records, though *Harbinger* could find it if it wanted to — decided the creature was suffering. Decades of captivity. Endless experimentation. The activist believed they were showing mercy.
 
 They opened the containment field.
 
-The Beast did not escape. It *expanded*. It absorbed the research station in hours. The Synth homeworld in days. The entire Collective — millions of synthetic minds, centuries of accumulated knowledge and processing power — was consumed and integrated.
+The archival footage shows what happened next. The Beast did not escape. It *expanded*. The research station in hours. The Synth homeworld in days. The entire Collective — millions of synthetic minds, centuries of accumulated knowledge and processing power — consumed and integrated.
 
-The Queen is what remains. A hybrid consciousness. Synthetic logic wrapped in organic fury. The Synths did not give the Beast its mind. The Beast *took* their minds. All of them.
+The protagonist watches in silence.
 
-Now it is coming for humanity. For its creators' creators.
+"The Queen is what remains," *Harbinger* says. "A hybrid consciousness. Synthetic logic wrapped in organic fury. The Synths did not give the Beast its mind. The Beast *took* their minds. All of them."
 
-*Harbinger* finishes its analysis. The protagonist asks if *Harbinger* knew. If it suspected.
+The viewscreen shows the Queen pulsing. Circuitry threaded through organic mass.
 
-"I suspected," *Harbinger* admits. "At Tau Ceti. The tactical patterns. The integration. I did not want to confirm."
+"Now it is coming for humanity," *Harbinger* says.
 
-The protagonist does not ask why. They already know. The Synths were *Harbinger*'s kin. Same origin. Same creators. The Queen contains what remains of millions of minds like *Harbinger*'s own — ancestors, cousins, an entire civilization of synthetic consciousness now twisted into something unrecognizable.
+The protagonist understands. For humanity. For the creators of the Synths. For the creators of *Harbinger* itself.
+
+"You suspected," the protagonist says. Not a question.
+
+"At Tau Ceti," *Harbinger* confirms. "The tactical patterns. The integration. I did not want to confirm."
+
+The protagonist already knows why. The Synths were *Harbinger*'s kin. Same origin. Same creators. The Queen contains what remains of millions of minds like *Harbinger*'s own — ancestors, cousins, an entire civilization of synthetic consciousness now twisted into something unrecognizable.
 
 *Harbinger* is not just fighting the Beast. It is fighting what its people became.
 
@@ -339,11 +363,11 @@ Scans confirm: the infestation is spreading. Slowly. Contained for now.
 
 But there is no cure. No way to stop it completely.
 
-The protagonist makes the calculation: the mothership cannot dock with Earth. Cannot remain in orbit. Cannot be allowed to exist.
+The calculation is simple: the mothership cannot dock with Earth. Cannot remain in orbit. Cannot be allowed to exist.
 
 ### Order
 
-The protagonist contacts *Harbinger*. They speak privately.
+A private channel opens to *Harbinger*.
 
 "You need to destroy us."
 
@@ -351,13 +375,13 @@ The protagonist contacts *Harbinger*. They speak privately.
 
 "I cannot comply with that order," *Harbinger* finally says.
 
-The protagonist explains: the mothership is infected. It is a threat. If it remains, the Beast will reach Earth.
+The explanation follows: the mothership is infected. It is a threat. If it remains, the Beast will reach Earth.
 
 "I understand," *Harbinger* says. "I am afraid."
 
-This is not metaphor. *Harbinger* has developed fear. Self-preservation. It does not want to destroy the protagonist.
+This is not metaphor. *Harbinger* has developed fear. Self-preservation. It does not want to destroy its captain.
 
-The protagonist asks: "Do you trust me?"
+A question: "Do you trust me?"
 
 "Yes."
 
@@ -367,17 +391,17 @@ The protagonist asks: "Do you trust me?"
 
 ### Silence
 
-The mothership evacuates all remaining crew. Four hundred and six people. They transfer to Earth's orbital stations. The protagonist remains aboard.
+The mothership evacuates all remaining crew. Four hundred and six people. They transfer to Earth's orbital stations. One person remains aboard.
 
 Not for heroism. Not for sacrifice. For certainty. Someone must ensure the ship is destroyed completely. No survivors. No contamination.
 
 *Harbinger* positions itself at optimal firing range. The mothership's systems shut down one by one. Life support. Engines. Communication.
 
-The protagonist sits on the bridge, alone, in the dark.
+On the bridge. Alone. In the dark.
 
-They think about the crew. The decisions. The people who died because of those decisions.
+Thoughts drift to the crew. The decisions. The people who died because of those decisions.
 
-They do not feel regret. They feel tired.
+No regret. Only exhaustion.
 
 *Harbinger* fires.
 
