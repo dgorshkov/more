@@ -4,12 +4,12 @@
 (Homeworld: Emergence–inspired, final title TBD)
 
 ## Genre
-Tactical real-time strategy  
+Turn-based tactical strategy  
 Narrative-driven survival  
 Horror-leaning science fiction
 
 ## Core Pillars
-- Tight, satisfying real-time tactics (Company of Heroes–inspired)
+- Tactical, deliberate turn-based combat (XCOM-inspired)
 - Strong narrative delivered through systems, not cutscenes
 - Scarcity, pressure, and irreversible loss
 - Controller-first design
@@ -31,12 +31,12 @@ No unit spam. Every loss matters.
 ---
 
 ## Tactical Combat
-- Real-time, pausable / slowable
+- Turn-based with action points per ship
 - Positioning, facing, and flanking are critical
-- Capital ships behave like squads with subsystems
+- Capital ships behave like units with subsystems and abilities
 - Fighters are fragile, fast, and expendable
 
-Retreat is expected and often optimal.
+Strategic planning and foresight are essential.
 
 ---
 
