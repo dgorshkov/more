@@ -3,6 +3,7 @@
 A horror-in-space game, a spiritual successor to Homeworld Cataclysm. Inspired by Homeworld, System Shock 2, XCOM.
 
 **Current status:** Concept phase
+
 **Current focus:** Story writing (game design/prototyping paused)
 
 ## Documentation
