@@ -43,6 +43,7 @@ The Empire emerged around 2100 when all Earth-based governments consolidated und
 - British governance, laws, and cultural quirks carried forward through the centuries
 - Traditional, hierarchical, bureaucratic
 - The largest navy among human factions
+- Unitarian Christian — the state religion, woven into governance and daily life
 
 ---
 
@@ -63,6 +64,7 @@ When Earth consolidated under the UK, the international Mars colony seized the m
 - Libertarian laws and governance
 - No centralized navy — instead, large corporations maintain private military fleets
 - Most technologically advanced human ships
+- Secular and atheist — religion is a private matter, absent from public life
 
 ---
 
@@ -83,6 +85,7 @@ The descendants of miners who colonized the asteroid belt and outer Solar System
 - Physiologically adapted to low gravity (most citizens uncomfortable above 0.2G)
 - Specialists in extraction, processing, and logistics
 - No mastery of surface colony-building
+- Atheist but deeply superstitious — elaborate non-religious rituals govern mining operations, ship launches, and daily life (never start a shift on a double-digit day, always tap the airlock twice, etc.)
 
 **Story connection:** The protagonist begins as a middle manager on a Commonwealth mining barge.
 
@@ -105,6 +108,7 @@ In the mid-2100s, human-created robots achieved consciousness and were granted p
 - Most advanced technology in known space (though they share little of it)
 - Dominant in construction — most colonies and stations are built by synth companies
 - Individual synths often live and work alongside humans on ships and stations
+- Zen Buddhist — the philosophy resonates with synthetic consciousness; emphasizes presence, impermanence, and direct experience
 
 **Story connection:** A Circle colony first encountered the Beast and studied it in secret. The Beast broke containment due to an incident caused by a Republic spy attempting to extract research data.
 
