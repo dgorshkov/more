@@ -1,7 +1,7 @@
 # Story Summary
 
 ## Premise
-The protagonist is a middle manager aboard a civilian mining vessel operating in a remote star system. When a hostile alien infestation — later known as the Beast — emerges, the ship’s captain and first officer are killed. By procedure, the protagonist is promoted to captain.
+The protagonist is a middle manager aboard a Commonwealth mining barge operating in a remote star system. When a hostile alien infestation — later known as the Beast — emerges, the ship’s captain and first officer are killed. By procedure, the protagonist is promoted to captain.
 
 They are unprepared. They have no choice.
 

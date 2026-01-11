@@ -5,6 +5,7 @@ This directory contains all story-related content and narrative design documenta
 ## Contents
 
 - **story-summary.md** - The complete story arc from beginning to end
+- **worldbuilding.md** - Factions, technology, and timeline
 - **writing-process.md** - Guidelines and process for narrative writing
 
 ## Purpose
