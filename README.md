@@ -9,6 +9,7 @@ A horror-in-space game, a spiritual successor to Homeworld Cataclysm. Inspired b
 ## Documentation
 
 - **[Game Concept](docs/design/game-concept.md)** - Core design pillars and gameplay vision
+- **[Worldbuilding](docs/narrative/worldbuilding.md)** - Factions, technology, and timeline
 - **[Story Summary](docs/narrative/story-summary.md)** - Complete narrative arc
 - **[Writing Process](docs/narrative/writing-process.md)** - Narrative design guidelines
 

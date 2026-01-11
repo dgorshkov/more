@@ -104,8 +104,8 @@ All enemy types use the same combat system (classes, tokens, initiative).
 |------|-------------|
 | **Infected Ships** | Human vessels corrupted by the Beast |
 | **Pure Beast** | Alien-origin ships, fully non-human |
-| **Hostile Humans** | Unfriendly human factions |
-| **Hostile Synths** | Synthetic/AI-controlled ships |
+| **Hostile Humans** | Empire, Republic, or Commonwealth ships (see [Worldbuilding](../narrative/worldbuilding.md)) |
+| **Hostile Synths** | Circle vessels or rogue AI (see [Worldbuilding](../narrative/worldbuilding.md)) |
 
 Enemy encounters can mix types, creating varied tactical challenges.
 
