@@ -5,6 +5,7 @@ This directory contains all game design documents, mechanics specifications, and
 ## Contents
 
 - **game-concept.md** - Core game concept, pillars, and design philosophy
+- **combat-system.md** - Turn-based combat mechanics, ship classes, and token system
 
 ## Purpose
 
@@ -18,7 +19,6 @@ Design documentation defines how the game plays, feels, and behaves. This includ
 ## Adding New Content
 
 Future design documents to consider:
-- Combat system specifications
 - Fleet management mechanics
 - Resource economy design
 - Mission structure and pacing

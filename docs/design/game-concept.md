@@ -9,7 +9,7 @@ Narrative-driven survival
 Horror-leaning science fiction
 
 ## Core Pillars
-- Tactical, deliberate turn-based combat (XCOM-inspired)
+- Token-based tactical combat (Darkest Dungeon 2–inspired)
 - Strong narrative delivered through systems, not cutscenes
 - Scarcity, pressure, and irreversible loss
 - Controller-first design
@@ -21,10 +21,14 @@ Commanding a small, irreplaceable fleet against an unknowable infestation, makin
 
 ---
 
-## Fleet Composition (Hard Limits)
-- 1 Mothership (mobile base, logistics, repairs)
-- 1–7 Capital Ships (frigates, destroyers, battleships)
-- 1–7 Fighter/Bomber Squadrons
+## Fleet Composition
+- 1 Mothership (mobile base, logistics, repairs — not deployed in combat)
+- Up to 5 combat ships per encounter (selected from your fleet)
+
+### Ship Classes
+- **Cruiser** — Large, slow initiative, fewer actions, never permanently lost
+- **Destroyer** — Medium, balanced stats
+- **Gunship** — Small, fast initiative, more actions per turn
 
 No unit spam. Every loss matters.
 
@@ -32,9 +36,10 @@ No unit spam. Every loss matters.
 
 ## Tactical Combat
 - Turn-based with action points per ship
-- Positioning, facing, and flanking are critical
-- Capital ships behave like units with subsystems and abilities
-- Fighters are fragile, fast, and expendable
+- Initiative order: smaller ships act first (Battletech-style)
+- Token system (DD2-inspired): ships accumulate positive, negative, and special state tokens
+- Fighters/bombers are ship abilities, not separate units
+- No grid or formation positioning — combat is about states, not space
 
 Strategic planning and foresight are essential.
 
